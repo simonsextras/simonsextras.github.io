@@ -1,2 +1,0 @@
-- name: Web Request Action
-  uses: Satak/webrequest-action@v1.2.3
